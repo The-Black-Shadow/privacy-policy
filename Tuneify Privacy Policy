@@ -1,0 +1,40 @@
+We take your privacy seriously and are committed to protecting your personal information. This privacy policy explains how we collect, use, and protect your data when you use our Flutter Music Player app.
+
+1. Information We Collect
+Our app does not collect personal information directly. However, certain functionalities may require access to the following:
+
+Device Storage Access
+Purpose: To scan for and play locally stored music files.
+Data Collected: File names, metadata (e.g., title, artist, album).
+Usage: We do not upload or share your music data; it remains on your device.
+Email for Debugging
+Purpose: To allow users to send feedback or debug reports.
+Data Collected: Email content (e.g., app logs, user-submitted feedback).
+Usage: This information is only used to address issues or improve the app and is not shared with third parties.
+Language and Theme Preferences
+Purpose: To enhance user experience by remembering preferences.
+Data Collected: Language and theme settings.
+Usage: Stored locally on your device and not shared with anyone.
+2. How We Use Your Information
+We use the data collected for the following purposes:
+
+To enable the core functionality of the app.
+To provide user support and address issues reported via email.
+To improve app performance and user experience.
+3. Third-Party Services
+Our app does not share your information with third-party services or advertisers.
+
+4. Data Security
+We implement security measures to ensure your data is protected. However, no method of data transmission or storage is completely secure, and we cannot guarantee absolute security.
+
+5. User Control
+You have full control over the app’s permissions and can manage them in your device’s settings. If you revoke storage access, some functionalities (e.g., music scanning) may be limited.
+
+6. Changes to This Policy
+We may update this privacy policy from time to time. Any changes will be reflected in the app, and the "Effective Date" will be updated. We encourage you to review the privacy policy periodically.
+
+7. Contact Us
+If you have any questions or concerns about this privacy policy, please contact us:
+
+Email: [mehedihasan.cse18@gmail.com]
+By using our app, you agree to the terms outlined in this privacy policy. Thank you for trusting us with your music experience!
